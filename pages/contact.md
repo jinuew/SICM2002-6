@@ -17,7 +17,7 @@ permalink: /contact
 - **E-mail:** [Email](mailto:your_email@example.com)
 
 #### 경희대학교 박진우
-![박진우](assets/images/park_jinwoo.jpg)
+![박진우](assets/images/박진우.jfif)
 - **Role:** 역할을 여기에 추가하세요
 - **E-mail:** [Email](mailto:p_jinwoo98@naver.com)
 
