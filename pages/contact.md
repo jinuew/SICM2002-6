@@ -6,11 +6,11 @@ permalink: /contact
 
 ## Team Introduction
 
-### 경희대학교 김영욱
+#### 경희대학교 김영욱
 - **Role:** 역할을 여기에 추가하세요
 - **E-mail:** [Email](mailto:your_email@example.com)
 
-### 경희대학교 박진영
+##### 경희대학교 박진영
 - **Role:** 역할을 여기에 추가하세요
 - **E-mail:** [Email](mailto:your_email@example.com)
 
