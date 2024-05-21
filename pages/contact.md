@@ -14,11 +14,11 @@ permalink: /contact
 - **Role:** 역할을 여기에 추가하세요
 - **E-mail:** [Email](mailto:your_email@example.com)
 
-### 경희대학교 박진우
+###### 경희대학교 박진우
 - **Role:** 역할을 여기에 추가하세요
 - **E-mail:** [Email](mailto:p_jinwoo98@naver.com)
 
-### 경희대학교 신정인
+### 경희대학교 신정인 ###
 - **Role:** 역할을 여기에 추가하세요
 - **E-mail:** [Email](mailto:your_email@example.com)
 
