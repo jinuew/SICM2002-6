@@ -13,7 +13,7 @@ GeoJson데이터를 OSM HTML과 연결<br>
 [View Map](https://jinuew.github.io/sicm2002-6/assets/경기도지도.html) 
 
 #### 코드 확인
-[View Example Code](https://github.com/jinuew/webinfo/blob/main/assets/NDVI그래프.ipynb)
+[Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)
 
 
 
