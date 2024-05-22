@@ -16,4 +16,9 @@ GeoJson데이터를 OSM HTML과 연결<br>
 [Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)
 
 
+#### 데이터 다운로드
+[경기북도 행정구역](https://github.com/jinuew/sicm2002-6/blob/main/assets/Data/경기북도4326.zip)
+[경기남도 행정구역](https://github.com/jinuew/sicm2002-6/blob/main/assets/Data/경기남도4326.zip)
+
+
 
