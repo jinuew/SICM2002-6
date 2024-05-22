@@ -4,7 +4,7 @@
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Process',     url: 'blog'}
-- {name: 'About',    url: 'about'}
+- {name: 'Data',    url: 'about'}
 - {name: 'Members',  url: 'contact'}
 
 #-------------------------------
