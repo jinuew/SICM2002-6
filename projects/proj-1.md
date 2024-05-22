@@ -1,5 +1,5 @@
 # 경기북도 확인하기
-### 담당자: 김영욱
+#### 담당자: 김영욱
 Python을 활용하여 Shape를 GeoJson으로 변환<br>
 GeoJson데이터를 OSM HTML과 연결<br>
 
