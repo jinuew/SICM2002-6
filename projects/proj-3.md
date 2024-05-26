@@ -17,6 +17,7 @@ Openstreetmap API를 활용하여 지하철 노선도 다운로드<br>
 
 
 #### 데이터 다운로드
-[경기북도 행정구역](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기북도4326.zip)<br>
-[경기남도 행정구역](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)
+[경기북부 지하철 노선도](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/north_subway.geojson)<br>
+[경기남부 지하철 노선도](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/south_subway.geojson)
+[지하철 노선 색상표](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/subway_color.csv)
 
