@@ -14,7 +14,6 @@ projects:
 - {name: '행정구역',   url: 'proj-1'}
 - {name: 'Graph Two',   url: 'proj-2'}
 - {name: '철도 접근성', url: 'proj-3'}
-- {name: 'Project Three', url: 'proj-3'}
 
 #-------------------------------
 # Contact Section
