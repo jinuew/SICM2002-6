@@ -11,8 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: '행정구역',   url: 'proj-1'}
-- {name: 'Graph Two',   url: 'proj-2'}
+- {name: '행정 구역',   url: 'proj-1'}
+- {name: '인구',   url: 'proj-2'}
 - {name: '철도 접근성', url: 'proj-3'}
 
 #-------------------------------
