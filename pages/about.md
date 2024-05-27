@@ -11,7 +11,7 @@ permalink: /about
 
 #### 활용 데이터 배포
 
-경기도 인구 데이터<br>
-경기도(남도, 북도) shp 데이터 다운로드<br>
-등등
-
+[경기북부 shp | source:국토교통부 | 가공O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기도4326.zip)<br>
+[경기남부 shp | source:국토교통부 | 가공O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)<br>
+[경기북부 지하철 노선도 | source:OSM | 가공 O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/north_subway.geojson)<br>
+[경기남부 지하철 노선도 | source:OSM | 가공 O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/south_subway.geojson)<br>
