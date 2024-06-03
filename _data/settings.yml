@@ -15,6 +15,7 @@ projects:
 - {name: '인구',   url: 'proj-2'}
 - {name: '경제 지표', url: 'proj-4'}
 - {name: '철도 접근성', url: 'proj-3'}
+- {name: '관련 기사 찾아보기', url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
