@@ -18,11 +18,11 @@
 []()
 
 
-#### 경기북ㆍ남도 지하철 분포
+#### 수정 예정
 [View Map](https://jinuew.github.io/sicm2002-6/assets/subwaymap.html) 
 
 #### 코드 확인
-[Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)
+[네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)
 
 
 #### 데이터 다운로드
