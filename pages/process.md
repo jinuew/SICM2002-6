@@ -12,5 +12,5 @@ permalink: /blog
 #### 활용 툴
 Python<br>
 QGIS<br>
-OSM API<br>
+Overpass API<br>
 Kakao API<br>
