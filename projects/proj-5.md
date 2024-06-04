@@ -26,5 +26,5 @@
 
 
 #### 코드 확인
-[네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)
+[네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)<br>
 [감정 분석 파이프라인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)
