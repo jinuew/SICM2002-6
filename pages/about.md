@@ -7,8 +7,9 @@ permalink: /about
 #### 코드 배포
 
 [Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)<br>
-[네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)
-[감정 분석 파이프라인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)
+[네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)<br>
+[감정 분석 파이프라인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)<br>
+[Shape파일 Convex_Hull](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Convex_Hull.ipynb)
 
 #### 활용 데이터 배포
 
