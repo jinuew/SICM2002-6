@@ -12,21 +12,18 @@
 [김동연 "경기북부 중첩규제 한 번에 풀기 위해 특별자치도 추진"](https://www.yna.co.kr/view/AKR20240530000600060?input=1195m)<br>
 [김동연 “분도 아니고 특별자치도…‘규제 탈출’ 특례가 핵심”](https://www.yna.co.kr/view/AKR20240530000600060?input=1195m)<br>
 ['논란의 평화누리특별자치도'..."이제는 도지사가 직접 답해야 한다"](https://www.kgnews.co.kr/news/article.html?no=795744)<br>
-[]()
-[]()
-[]()
-[]()
+[김동연 “분도 아니고 특별자치도…‘규제 탈출’ 특례가 핵심”](https://www.kgnews.co.kr/news/article.html?no=795744)<br>
+[[영상] 김동연 “평화누리특별자치도 이름, 확정 아냐…국회서 정해질 것”](https://www.kyeonggi.com/article/20240529580387<br>)
+[‘평화누리특별자치도’ 직접 입 여는 김동연, 왜 분도(分道)인가](http://www.edaily.co.kr/news/newspath.asp?newsid=02781446638893840)<br>
+[경기북부 ‘특별자치도’ 설립 논란… 본질은 폐쇄적 국경정책에 있다[차용구...](https://www.seoul.co.kr/news/plan/via-historia/2024/06/03/20240603018001?wlog_tag3=naver)<br>
+출처: 네이버 뉴스 "평화누리특별자치도" 검색 크롤링(주제에 대한 선별 작업은 하지 않음)
 
+### 네이버 뉴스 '경기도 분도' 감정 분석 결과
+330개의 네이버 기사 제목 크롤링<br>
+transformer 라이브러리에서 감정 분석 pipeline을 이용해 감정 분석<br>
+330개의 기사 중, 약 131개의 기사가 경기도 분도에 관하여 부정적인 제목을 이용 중<br>
 
-#### 수정 예정
-[View Map](https://jinuew.github.io/sicm2002-6/assets/subwaymap.html) 
 
 #### 코드 확인
 [네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)
-
-
-#### 데이터 다운로드
-[경기북부 지하철 노선도](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/north_subway.geojson)<br>
-[경기남부 지하철 노선도](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/south_subway.geojson)<br>
-[지하철 노선 색상표](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/subway_color.csv)
-
+[감정 분석 파이프라인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)
