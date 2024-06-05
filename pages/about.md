@@ -10,9 +10,9 @@ permalink: /about
 [네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)<br>
 [감정 분석 파이프라인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)<br>
 [Shape파일 Convex_Hull](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Convex_Hull.ipynb)<br>
-[막대그래프 만들기](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP.ipynb)<br>
-[단계 구분도 만들기](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP단계구분.ipynb)<br>
-[SHP, CSV 조인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/shp와csv조인.ipynb)
+[막대그래프 with plt](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP.ipynb)<br>
+[단계구분도 생성 with gpd](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP단계구분도.ipynb)<br>
+[SHP, CSV 조인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/shp와csv조인.ipynb)<br>
 [HTML 지도 변환](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)
 
 #### 활용 데이터 배포
