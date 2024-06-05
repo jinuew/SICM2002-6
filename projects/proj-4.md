@@ -1,4 +1,4 @@
-# 경기도 GRDP
+# 경기도 경제지표
 
 담당자: 신정인, 이수현<br>
 내용<br>
@@ -6,11 +6,11 @@
 
 #### 주요 내용
 
-ㅁㅁ <br>
+경기도 GRDP 수집<br>
 ㅁㅁ
 
-#### 경기북ㆍ남도 지하철 분포
-[View Map](https://jinuew.github.io/sicm2002-6/assets/subwaymap.html) 
+#### 경기북ㆍ남도 GRDP
+[View GRDP Graph](https://jinuew.github.io/sicm2002-6/assets/GRDP 막대그래프.html)
 
 #### 코드 확인
 [Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)
