@@ -10,7 +10,7 @@
 ㅁㅁ
 
 #### 경기북ㆍ남도 GRDP
-[View GRDP Graph](https://jinuew.github.io/sicm2002-6/assets/GRDP 막대그래프.html)
+[View GRDP Graph](https://jinuew.github.io/sicm2002-6/assets/GRDP막대그래프.html)
 
 #### 코드 확인
 [Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)
