@@ -13,7 +13,8 @@ permalink: /about
 [막대그래프 with plt](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP.ipynb)<br>
 [단계구분도 생성 with gpd](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP단계구분도.ipynb)<br>
 [SHP, CSV 조인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/shp와csv조인.ipynb)<br>
-[HTML 지도 변환](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)
+[HTML 지도 변환](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
+[KakaoAPI를 활용한 지오 코딩](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/지오코딩.ipynb)<br>
 
 #### 활용 데이터 배포
 
