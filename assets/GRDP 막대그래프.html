@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>경기도 GRDP 그래프</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div style="width: 600px; height: 400px;">
+        <canvas id="grdpChart"></canvas>
+    </div>
+    <script>
+        const ctx = document.getElementById('grdpChart').getContext('2d');
+        const grdpChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [
+                    '화성시', '성남시', '수원시', '용인시', '평택시', '이천시', '안산시', 
+                    '파주시', '고양시', '안양시', '부천시', '시흥시', '김포시', '남양주시', 
+                    '광주시', '안성시', '하남시', '광명시', '양주시', '포천시', '의정부시', 
+                    '군포시', '오산시', '여주시', '과천시', '의왕시', '구리시', '양평군', 
+                    '가평군', '연천군', '동두천시'
+                ],
+                datasets: [{
+                    label: 'GRDP',
+                    data: [
+                        91041737, 50302710, 35684685, 35308886, 35038757, 28534355, 25717424, 
+                        23932152, 22616950, 18439904, 17940553, 17801820, 15460054, 13099866, 
+                        10821756, 10237439, 8087877, 8074460, 7636652, 7496139, 7388564, 
+                        7329556, 6031892, 4663018, 4650517, 4127736, 3611223, 2475909, 
+                        1985743, 1879532, 1792963
+                    ],
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: '경기도 GRDP 그래프'
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
