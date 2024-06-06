@@ -10,7 +10,7 @@ Python, HTML 그래프,  제작<br>
 내용
 
 #### 경기북도 행정구역 확인하기
-[경기도 인구 그래프](https://jinuew.github.io/sicm2002-6/assets/막대그래프.html)
+[경기도 인구 그래프](https://jinuew.github.io/sicm2002-6/assets/막대그래프.html)<br>
 [인구 변화 그래프](https://jinuew.github.io/sicm2002-6/assets/꺾은선 그래프.html)
 
 #### 코드 확인
