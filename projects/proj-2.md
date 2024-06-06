@@ -10,13 +10,12 @@ Python, HTML 그래프,  제작<br>
 내용
 
 #### 경기북도 행정구역 확인하기
-[View Map](https://jinuew.github.io/sicm2002-6/assets/경기도지도.html)
-[View Graph]
+[경기도 인구 그래프](https://jinuew.github.io/sicm2002-6/assets/막대그래프.html)
+[인구 변화 그래프](https://jinuew.github.io/sicm2002-6/assets/꺾은선 그래프.html)
 
 #### 코드 확인
-[Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)
+[인구 데이터 가공(Graph, Map)](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/경기도 인구 파이썬 (1).ipynb)
 
 
 #### 데이터 다운로드
-[경기북도 행정구역](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/gyeonggi_pop.xlsx)<br>
-[경기남도 행정구역](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)
+[경기도 인구](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/gyeonggi_pop.xlsx)<br>
