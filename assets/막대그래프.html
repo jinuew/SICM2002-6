@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>경기도 인구 그래프
+    </title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>경기도 인구 그래프</h1>
+    <label><input type="checkbox" id="southernCheckbox" checked> 경기남부</label>
+    <label><input type="checkbox" id="northernCheckbox" checked> 경기북부</label>
+    <canvas id="populationChart" width="800" height="400"></canvas>
+    <script>
+        var ctx = document.getElementById('populationChart').getContext('2d');
+        
+        var data = {
+            southern: {
+                labels: ['수원시', '용인시', '성남시', '화성시', '부천시', '안산시', '평택시', '안양시', '시흥시', '김포시', '광주시', '광명시', '하남시', '군포시', '오산시', '이천시', '안성시', '의왕시', '양평군', '여주시', '과천시'],
+                data: [1233431, 1094561, 935966, 989676, 806356, 681529, 619844, 551112, 556903, 508800, 404270, 283124, 332359, 267009, 239159, 231265, 202849, 159932, 126741, 118536, 81219]
+            },
+            northern: {
+                labels: ['고양시', '남양주시', '파주시', '의정부시', '양주시', '구리시', '포천시', '동두천시', '가평군', '연천군'],
+                data: [1087607, 740780, 511530, 469936, 276660, 188634, 157992, 92414, 63488, 42768]
+            }
+        };
+        
+        var populationChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [...data.southern.labels, ...data.northern.labels],
+                datasets: [{
+                    label: '인구',
+                    data: [...data.southern.data, ...data.northern.data],
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+        
+        document.getElementById('southernCheckbox').addEventListener('change', updateChart);
+        document.getElementById('northernCheckbox').addEventListener('change', updateChart);
+        
+        function updateChart() {
+            var southernChecked = document.getElementById('southernCheckbox').checked;
+            var northernChecked = document.getElementById('northernCheckbox').checked;
+            
+            var updatedLabels = [];
+            var updatedData = [];
+            
+            if (southernChecked) {
+                updatedLabels = updatedLabels.concat(data.southern.labels);
+                updatedData = updatedData.concat(data.southern.data);
+            }
+            if (northernChecked) {
+                updatedLabels = updatedLabels.concat(data.northern.labels);
+                updatedData = updatedData.concat(data.northern.data);
+            }
+            
+            populationChart.data.labels = updatedLabels;
+            populationChart.data.datasets[0].data = updatedData;
+            populationChart.update();
+        }
+    </script>
+</body>
+</html>
