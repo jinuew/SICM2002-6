@@ -6,8 +6,8 @@
 
 #### 주요 내용
 
-경기도 GRDP 수집<br>
-파이썬을 활용한 HTML Map 변환<br>
+뭐쓸래<br>
+내용<br>
 
 #### 경기북ㆍ남도 GRDP
 [View GRDP Graph](https://jinuew.github.io/sicm2002-6/assets/GRDP막대그래프.html)<br>
