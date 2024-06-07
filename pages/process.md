@@ -13,4 +13,4 @@ permalink: /blog
 Python<br>
 QGIS<br>
 Overpass API<br>
-Kakao API<br>
+Kakao API
