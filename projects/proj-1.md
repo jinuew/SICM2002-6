@@ -1,4 +1,4 @@
-# 행정구역
+# 행정 구역
 
 담당자: 김영욱<br>
 Python을 활용하여 Shape를 GeoJson으로 변환<br>
