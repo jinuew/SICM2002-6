@@ -16,6 +16,7 @@ permalink: /about
 [HTML 지도 변환](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
 [KakaoAPI를 활용한 지오 코딩](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/지오코딩.ipynb)<br>
 [주소 텍스트 기반 데이터 분할](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/주소기반데이터분할.ipynb)<br>
+[플롯틀리를 활용한 웹 그래프 생성](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/플롯틀리.ipynb)<br>
 
 #### 활용 데이터 배포
 
