@@ -9,13 +9,15 @@ Python, HTML 그래프,  제작<br>
 뭐쓸래<br>
 내용
 
-#### 경기북도 행정구역 확인하기
+#### 경기북도 인구
 [경기도 인구 그래프](https://jinuew.github.io/sicm2002-6/assets/막대그래프.html)<br>
 [인구 변화 그래프](https://jinuew.github.io/sicm2002-6/assets/꺾은선그래프.html)<br>
 [경기도 인구 단계 구분도](https://jinuew.github.io/sicm2002-6/assets/경기도인구단계구분도.html)
+[경기남북도 합계 인구 그래프](https://jinuew.github.io/sicm2002-6/assets/data_to_html_graph.html)
 
 #### 코드 확인
 [인구 데이터 가공(Graph, Map)](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/경기도 인구 파이썬 (1).ipynb)
+[플롯틀리 그래프 생성](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/플롯틀리.ipynb)
 
 
 #### 데이터 다운로드
