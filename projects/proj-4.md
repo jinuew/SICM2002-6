@@ -6,8 +6,11 @@
 
 #### 주요 내용
 
-뭐쓸래<br>
-내용<br>
+북부 GRDP 평균: 9,143,978<br>
+남부 GRDP 평균: 20,846,240<br>
+상위 10개 도시 중 8개가 남부에 위치함<br>
+하위 5개 도시 중 4개가 북부에 위치함<br>
+헥사곤 데이터를 통한 공시지가 확인
 
 #### 경기북ㆍ남도 GRDP
 [View GRDP Graph](https://jinuew.github.io/sicm2002-6/assets/GRDP막대그래프.html)<br>
