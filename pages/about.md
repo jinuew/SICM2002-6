@@ -22,6 +22,7 @@ permalink: /about
 [경기북부 Shape, source:국토교통부, 가공O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기북도4326.zip)<br>
 [경기남부 Shape, source:국토교통부, 가공O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)<br>
 [경기도 GRDP. source:경기통계, 가공O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기도GRDP.xlsx)<br>
+[경기도 공시지가, source:브이월드, 가공O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/공시지가.zip)<br>
 [경기북부 지하철 노선도, source:OverpassAPI, 가공 O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/north_subway.geojson)<br>
 [경기남부 지하철 노선도, source:OverpassAPI, 가공 O](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/south_subway.geojson)<br>
 [지하철 노선도 색상 CSV, 자체제작](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/subway_color.csv)<br>
