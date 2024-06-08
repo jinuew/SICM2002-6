@@ -13,7 +13,7 @@
 [View GRDP Graph](https://jinuew.github.io/sicm2002-6/assets/GRDP막대그래프.html)<br>
 [View GRDP Map](https://jinuew.github.io/sicm2002-6/assets/Gyeonggi_GRDP_Map.html)<br>
 #### 경기북ㆍ남도 공시지가
-[View 공시지 Map](https://jinuew.github.io/sicm2002-6/assets/hexagon_map.html)<br>
+[View 공시지가 Map](https://jinuew.github.io/sicm2002-6/assets/hexagon_map.html)<br>
 #### 활용 코드
 [막대그래프 with Python](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP.ipynb)<br>
 [단계구분도 with Geopandas](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP단계구분도.ipynb)<br>
