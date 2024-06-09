@@ -22,9 +22,8 @@
 [단계구분도 with Geopandas](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP단계구분도.ipynb)<br>
 [CSV & SHP Data Join](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/shp와csv조인.ipynb)<br>
 [geojson to HTML MAP](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
-[geojson to HTML MAP](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
-
+[주소 텍스트 기반 데이터 분할](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/주소기반데이터분할.ipynb)
 
 #### 데이터 다운로드
 [경기도 GRDP](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기도GRDP.xlsx)<br>
-[경기도 공시지](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/공시지가.zip)<br>
+[경기도 공시지가](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/공시지가.zip)<br>
