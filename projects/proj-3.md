@@ -1,7 +1,7 @@
 # 경기도 지하철
 
 담당자: 박진영<br>
-Openstreetmap API를 활용하여 지하철 노선도 다운로드<br>
+Overpass API를 활용하여 지하철 노선도 다운로드<br>
 공간데이터 CLIP<br>
 
 #### 주요 내용
