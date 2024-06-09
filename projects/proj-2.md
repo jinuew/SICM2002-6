@@ -2,12 +2,14 @@
 
 담당자: 김영욱<br>
 공공데이터를 활용한 인구 데이터 수집<br>
-Python, HTML 그래프,  제작<br>
+Python, Plotly, HTML 그래프 제작<br>
 
 #### 주요 내용
 
-뭐쓸래<br>
-내용
+남부와 북부 모두 인구 수 지속적 증가<br>
+인구 80만이 넘는 도시: 남부 5곳, 북부 1곳<br>
+남북부간 인구 격차 증가<br>
+
 
 #### 경기북도 인구
 [경기도 인구 그래프](https://jinuew.github.io/sicm2002-6/assets/막대그래프.html)<br>
