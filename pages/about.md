@@ -20,14 +20,14 @@ permalink: /about
 
 #### Data Sharing
 
-[Gyeonggi Northern Shape, source: 국토교통부, processed](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기북도4326.zip)<br>
-[Gyeonggi Southern Shape, source: 국토교통부, processed](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)<br>
-[Gyeonggi Population 2005-2024, source: 경기 통계, processed](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/gyeonggi_pop.xlsx)<br>
-[Gyeonggi GRDP, source: 경기 통계, processed](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기도GRDP.xlsx)<br>
-[Gyeonggi Official Land Price, source: 브이월드, processed](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/공시지가.zip)<br>
-[Gyeonggi Northern Subway Lines, source: OverpassAPI, processed](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/north_subway.geojson)<br>
-[Gyeonggi Southern Subway Lines, source: OverpassAPI, processed](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/south_subway.geojson)<br>
-[Subway Line Colors RGB, self-produced](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/subway_color.csv)<br>
+[Gyeonggi Northern Shape, source: 국토교통부](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기북도4326.zip)<br>
+[Gyeonggi Southern Shape, source: 국토교통부](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)<br>
+[Gyeonggi Population 2005-2024, source: 경기 통계](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/gyeonggi_pop.xlsx)<br>
+[Gyeonggi GRDP, source: 경기 통계](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기도GRDP.xlsx)<br>
+[Gyeonggi Official Land Price, source: 브이월드](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/공시지가.zip)<br>
+[Gyeonggi Northern Subway Lines, source: OverpassAPI](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/north_subway.geojson)<br>
+[Gyeonggi Southern Subway Lines, source: OverpassAPI](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/south_subway.geojson)<br>
+[Subway Line Colors RGB](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/subway_color.csv)<br>
 
 
 
