@@ -6,17 +6,17 @@ permalink: /about
 
 #### Code Sharing
 
-[Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)<br>
 [News Crwaling](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)<br>
 [Sentiment Analysis](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)<br>
+[Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)<br>
 [Shape File Convex_Hull](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Convex_Hull.ipynb)<br>
 [Bar Graph with plt](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP.ipynb)<br>
 [Choropleth Map with gpd](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP단계구분도.ipynb)<br>
 [Joining SHP and CSV](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/shp와csv조인.ipynb)<br>
-[HTML map Conversion](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
-[Geocoding with KakaoAPI](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/지오코딩.ipynb)<br>
+[Geojson_to_HTML Map](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
 [Address-based Data Split](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/주소기반데이터분할.ipynb)<br>
-[Web Graph with Plotly](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/플롯틀리.ipynb)<br>
+[★Geocoding with KakaoAPI](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/지오코딩.ipynb)<br>
+[★Web Graph with Plotly](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/플롯틀리.ipynb)<br>
 [★Text Based GeoDataFrame Extraction](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/주소키워드기반데이터추출.ipynb)<br>
 
 #### Data Sharing
