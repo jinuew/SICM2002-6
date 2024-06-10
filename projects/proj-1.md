@@ -1,24 +1,24 @@
-# 행정 구역
+# Administrative Districts
 
-담당자: 김영욱<br>
-Python을 활용하여 Shape를 GeoJson으로 변환<br>
-GeoJson데이터를 OSM HTML과 연결<br>
+Task: 김영욱<br>
+Transform shape files into GeoJSON using Python<br>
+Integrate GeoJSON data with OSM HTML<br>
 
-#### 주요 내용
+#### Key Highlights
 
-경기북도 10개 시군, 경기남도 21개 시군<br>
-경기북도 면적: 4264km2, 경기남도 면적:6048km2 
+North Gyeonggi-do : 10 cities, area: 4264 km²<br>
+South Gyeonggi-do : 21 cities, area: 6048 km² 
 
-#### 경기남・북도 행정구역 확인하기
+#### View North and South Gyeonggi-do Administrative Districts
 [View Map](https://jinuew.github.io/sicm2002-6/assets/경기도지도.html) 
 
-#### 활용 코드
+#### Code Information
 [Shape to GeoJSON](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Shape_to_GeoJSON.ipynb)
 
 
-#### 데이터 다운로드
-[경기북도 행정구역](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기북도4326.zip)<br>
-[경기남도 행정구역](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)
+#### Data Download
+[North Gyeonggi-do](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기북도4326.zip)<br>
+[South Gyeonggi-do](https://github.com/jinuew/sicm2002-6/raw/main/assets/Data/경기남도4326.zip)
 
 
 
