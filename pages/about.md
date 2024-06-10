@@ -17,6 +17,7 @@ permalink: /about
 [Geocoding with KakaoAPI](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/지오코딩.ipynb)<br>
 [Address-based Data Split](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/주소기반데이터분할.ipynb)<br>
 [Web Graph with Plotly](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/플롯틀리.ipynb)<br>
+[★Text Based GeoDataFrame Extraction](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/주소키워드기반데이터추출.ipynb)<br>
 
 #### Data Sharing
 
