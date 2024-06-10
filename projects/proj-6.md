@@ -2,7 +2,7 @@
 
 Task: 김영욱, 박진우<br>
 Simplify Gyeonggi-do districts using convex hull techniques<br>
-Creating a map-based quiz<br>
+Create map-based quiz<br>
 Random scoring system using 'Math.random' in Python
 
 #### Key Highlights
