@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Analyzing the Division of Gyeonggi Province through Data"
+title:		   "Analyzing the Division of Gyeonggi-do through Data"
 description: "Python Project: Team 6"
 author:      "Python Team 6"
