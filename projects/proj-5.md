@@ -1,10 +1,10 @@
-# 기사 크롤링
+# Article Crawling
 
-담당자: 박진우<br>
-크롤링을 통한 기사 수집<br>
-감정 분석을 통한 분도에 대한 논의 확인<br>
+Task: 박진우<br>
+Collecting articles through web crawling<br>
+Verifying discussions about public sentiment through sentiment analysis<br>
 
-#### '평화누리특별자치도' 크롤링
+#### '평화누리특별자치도' Crawling
 [“특별자치도 추진 강행”…김동연 지사, 경기도청원 공식 답변](https://www.news1.kr/articles/5434859)<br> 
 [김동연 지사 "평화누리특별자치도 명칭, 최종 확정 아냐"](https://www.newsis.com/view/?id=NISX20240529_0002753802&cID=14001&pID=14000)<br>
 [김동연, '평화누리자치도 반대' 청원에 '수용 불가'…"특자도 대한민국 성장 ...](http://news.tf.co.kr/read/national/2103361.htm)<br>
@@ -17,20 +17,19 @@
 [[영상] 김동연 “평화누리특별자치도 이름, 확정 아냐…국회서 정해질 것”](https://www.kyeonggi.com/article/20240529580387<br>)
 [‘평화누리특별자치도’ 직접 입 여는 김동연, 왜 분도(分道)인가](http://www.edaily.co.kr/news/newspath.asp?newsid=02781446638893840)<br>
 <br>
-출처: 네이버 뉴스 "평화누리특별자치도" 검색 크롤링<br>
-(주제에 대한 선별 작업은 하지 않음)
+Source: Naver News "평화누리특별자치도" crawling<br>
+(No topic-based selection process performed)
 
-#### '경기도 분도' 크롤링 및 감정 분석
+#### Crawling and Sentiment Analysis of "경기도 분도"
 
-330개의 '경기도 분도' 네이버 기사 크롤링<br>
-감정 분석 파이프라인을 이용해 감정 분석<br>
-131개의 기사가 경기도 분도에 관하여 부정적인 제목<br>
+Crawling 330 Naver news articles related to "경기도 분도"<br>
+Employing a sentiment analysis pipeline for sentiment analysis<br>
+131 articles have negative headlines regarding "경기도 분도"<br>
 <br>
-출처: 네이버 뉴스 "경기도 분도" 검색 크롤링<br>
-(주제에 대한 선별 작업은 하지 않음)
+Source: Naver News "경기도 분도" crawling<br>
+(No topic-based selection process performed)
 
 
-
-#### 활용 코드
-[네이버 기사 크롤링](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)<br>
-[감정 분석 파이프라인](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)
+#### Code Information
+[Crawling Naver News Articles](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/네이버기사 크롤링.ipynb)<br>
+[Sentiment Analysis Pipeline](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/감정분석 코드.ipynb)
