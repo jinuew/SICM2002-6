@@ -14,4 +14,7 @@ Use the OX quiz format with a random scoring system
 #### Start quiz game
 [Click here](https://jinuew.github.io/sicm2002-6/assets/quiz.html) 
 
+#### Code Information
+[Shape File Convex_Hull](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Convex_Hull.ipynb)<br>
+
 
