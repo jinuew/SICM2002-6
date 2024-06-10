@@ -23,7 +23,7 @@ Official land prices confirmed through Hexagon data
 [Bar graphs with Python](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP.ipynb)<br>
 [Choropleth maps with Geopandas](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/GRDP단계구분도.ipynb)<br>
 [CSV & SHP Data Join](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/shp와csv조인.ipynb)<br>
-[geojson to HTML MAP](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
+[Geojson to HTML MAP](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/Geojson_to_html.ipynb)<br>
 [Text-Based Data Segmentation by Address](https://github.com/jinuew/sicm2002-6/blob/main/assets/Code/주소기반데이터분할.ipynb)
 
 #### Data Download
