@@ -16,7 +16,7 @@ projects:
 - {name: 'Population',   url: 'proj-2'}
 - {name: 'Economic Indicators', url: 'proj-4'}
 - {name: 'Subway Distribution', url: 'proj-3'}
-
+- {name: 'Gyeonggi-do Quiz', url: 'proj-6'}
 #-------------------------------
 # Contact Section
 
