@@ -1,15 +1,20 @@
-# 경기도 경제 지표
+# Gyeonggi-do Economic Indicators
 
-담당자: 신정인, 이수현<br>
-경기도 GRDP 수집<br>
-파이썬을 활용한 HTML Map 변환<br>
+Task: 신정인, 이수현<br>
+Collect GRDP (Gross Regional Domestic Product) data for Gyeonggi-do<br>
+Convert GRDP data to HTML Map using Python<br>
 
-#### 주요 내용
+#### Key Highlights
 
+## North and South Gyeonggi-do GRDP Statistics
 북부 GRDP 평균: 9,143,978<br>
 남부 GRDP 평균: 20,846,240<br>
 상위 10개 도시 중 8개가 남부에 위치함<br>
 하위 5개 도시 중 4개가 북부에 위치함<br>
+### North and South Gyeonggi-do GRDP Statistics
+
+##### North and South Gyeonggi-do GRDP Statistics
+
 헥사곤 데이터를 통한 공시지가 확인
 
 #### 경기북ㆍ남도 GRDP
