@@ -5,20 +5,20 @@
 
 
 ## Research Objectives
-Debate on the Division of Gyeonggi Province
-Naming Controversy of “평화누리특별자치도”
-Creation of Basic Data for Gyeonggi Province Division
-Code and Data Sharing
+Debate on the Division of Gyeonggi Province<br>
+Naming Controversy of “평화누리특별자치도”<br>
+Creation of Basic Data for Gyeonggi Province Division<br>
+Code and Data Sharing<br>
 
 ## Tools & Stacks
-Python:Pandas, Geopandas, Matlab, Folium, Plotly
-GIS:QGIS Desktop
-Overpass API:Overpass QL
-Kakao API: Maps API, Local API
+Python:Pandas, Geopandas, Matlab, Folium, Plotly<br>
+GIS:QGIS Desktop<br>
+Overpass API:Overpass QL<br>
+Kakao API: Maps API, Local API<br>
 
 ## Research Plan
-Literature Riview and Data Collection
-Data Analysis and Visualization
-Developing Foundational Datasets
-Documentation and Sharing
+Literature Riview and Data Collection<br>
+Data Analysis and Visualization<br>
+Developing Foundational Datasets<br>
+Documentation and Sharing<br>
 
